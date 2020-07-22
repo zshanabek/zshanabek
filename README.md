@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hi! I'm a software developer from Kazakhstan.
-    <br> - 🔭 I’m currently working on <a href="https://insynyp.online"><br>
+    <br> - 🔭 I’m currently working on <a href="https://insynyp.online">insynyp.online</a><br>
          - 🌱 I’m currently learning french, django<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/zshanabek">Twitter</a>
