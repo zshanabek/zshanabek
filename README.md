@@ -5,7 +5,7 @@
     :wave: hi! i'm a software developer from kazakhstan.<br>
          - 🔌️ i do things with vue.js, django and ruby on rails<br>
          - ♥️ in love with elementary os<br>
-         - 🗣️ i speak english, french, russian<br>
+         - 🗣️ i speak english, french, kazakh<br>
          - 🔭 currently working on <a href="http://insynyp.online">insynyp.online</a><br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: wanna chat? :point_right: @ me on <a href="https://twitter.com/zshanabek">twitter</a>
