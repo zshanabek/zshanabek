@@ -6,7 +6,7 @@
   <samp>
     :wave: Hi! .
     <br> - 🔭 I’m currently working on insynyp.online<br>
-         - 🌱 I’m currently learning french, django</br>
+         - 🌱 I’m currently learning french, django<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/zshanabek">Twitter</a>
   </samp>
