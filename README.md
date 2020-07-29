@@ -8,6 +8,6 @@
          - 🗣️ chatting in english, french, kazakh and russian<br>
          - 🔭 currently working on <a href="http://insynyp.online">insynyp.online</a><br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: wanna chat? :point_right: @ me on <a href="https://twitter.com/zshanabek">twitter</a>
+    <br><br>:coffee: tag me on <a href="https://twitter.com/zshanabek">twitter</a>
   </samp>
 </p>
