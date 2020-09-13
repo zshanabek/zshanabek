@@ -6,7 +6,7 @@
          - 🔌️ i do things with vue.js, django and ruby on rails<br>
          - 😍️ in love with elementary os, vscode, and telegram<br>
          - 🗣️ chatting in english, french, kazakh and russian<br>
-         - 🔭 currently unemployed<br>
+         - 🔭 currently working on learning management system platform<br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: tag me on <a href="https://twitter.com/zshanabek">twitter</a>
   </samp>
