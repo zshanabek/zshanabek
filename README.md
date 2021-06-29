@@ -8,6 +8,6 @@
          - 🗣️ chatting in english, french, kazakh and russian<br>
          - 🔭 currently building <a href="https://theflow.online">theflow.online</a>, a learning platform for new-age skills<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"><br><br>
-    :coffee: tag me on <a href="https://twitter.com/zshanabek">twitter</a>
+    :coffee: reach me via <a href="https://telegram.me/zshanabek">telegram</a>
   </samp>
 </p>
