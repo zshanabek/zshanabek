@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: hi! i'm a full-stack developer from kazakhstan.<br>
-         - 🔌️ i do things with vue.js, django and ruby on rails<br>
+         - 🔌️ i develop apps with vue.js, react.js, django, fastapi<br>
          - 😍️ in love with vscode, insomnia rest client<br>
          - 🗣️ chatting in english, french, kazakh and russian<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"><br><br>
